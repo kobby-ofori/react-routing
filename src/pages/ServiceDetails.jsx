@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
-import Cards from "../components/Cards";
-import adele from "../images/adele.jpg";
+// import Cards from "../components/Cards";
+// import adele from "../images/adele.jpg";
 import { Container, Row } from "react-bootstrap";
 
 const ServiceDetails = () => {
